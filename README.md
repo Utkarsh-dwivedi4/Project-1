@@ -11,3 +11,4 @@ Here, I will be experimenting with code, learning Git, and pushing my first comm
 - Project structure and documentation
 
 Stay tuned for updates as I grow my skills! 🌱
+Hello world
